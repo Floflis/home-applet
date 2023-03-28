@@ -1,0 +1,9 @@
+{
+ "uuid": "home@floflis",
+ "name": "Home/Launcher",
+ "description": "Click to go to the launcher/home/desktop",
+ "icon": "go-home",
+ "contributors": "Daniella Mesquita",
+ "author": "Floflis DAO",
+ "max-instances": -1
+}
